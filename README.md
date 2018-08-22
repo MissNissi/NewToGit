@@ -10,5 +10,4 @@ I pushed the changed to the repo
 Trying to get changes from another machine
 
 <br />
-//Hm.. did you succeed in making changes?
-
+//Hm.. did you succeed in making changes??
