@@ -1,0 +1,15 @@
+<?php
+
+	$server="localhost";
+	$user="root";
+	$password="";
+	$db ="testDB";
+
+	$connection = new mysqli($server,$user,$password);
+	
+	if($connection->connection_error){
+		die("connection error".connection->connection_error);
+	}
+	
+	echo "connected";
+ ?>
